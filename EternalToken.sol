@@ -273,14 +273,7 @@ contract EternalToken is StandardToken, Ownable {
         totalSupply_ = INITIAL_SUPPLY;
         balances[msg.sender] = INITIAL_SUPPLY;
     }
-
-    // ------------------------------------------------------------------------
-    // Don't accept ETH
-    // ------------------------------------------------------------------------
-    function () public payable {
-        revert();
-    }    
-
+   
     /**
      * @dev Distribute tokens to multiple addresses in a single transaction
      *
