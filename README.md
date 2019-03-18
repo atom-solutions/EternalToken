@@ -11,6 +11,13 @@ XEC is a centralize coin unlike other coins in the market. Our core idea is to p
 
 For more details, please view to our official homepage: https://www.atom-solutions.jp/en/
 
+# Token Contract Information
+- Symbol: `XET`  
+- Name: `ETERNAL TOKEN`  
+- Address: [`0x054c64741dbafdc19784505494029823d89c3b13`](https://etherscan.io/address/0x054c64741dbafdc19784505494029823d89c3b13)  
+- Decimal places: `8`  
+- Total supply: `200,000,000`  
+
 # Documents
 XET Whitepaper: https://www.atom-solutions.jp/whitepaper/XET_whitepaperver.2.0en.pdf<br/>
 XEC Whitepaper: https://www.atom-solutions.jp/whitepaper/XEC_whitepaperver.2.0en.pdf<br/>
@@ -72,3 +79,6 @@ Coinmarketdaddy https://coinmarketdaddy.com/currencies/token/eternal-token/xet/]
 **08th Feb**, Atom Solutions has formed a business partnership with CIS Bayad Center in the Philippines! https://www.atom-solutions.jp/en/news/news_190208.php]<br/>
 **13th Feb**, XET is listed on OEX and XET/BTC & XET/ETH are now online! https://https://www.oex.com/]<br/>
 **27th Feb**, "One-Touch Transfer" Patent, Approved Successfully! https://www.atom-solutions.jp/en/news/news_190227.php]<br/>
+
+---
+(c) Atom Solutinos Co., Ltd. All right received.
