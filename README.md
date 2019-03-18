@@ -44,11 +44,9 @@ Coinranker https://www.coinranker.net/cryptocurrency/Eternaltoken/]<br/>
 **6th July**, Achieved Rank 40 on LiveCoinWatch! XET is unstoppable!<br/>
 **10th July**, Achieved Rank 30 on LiveCoinWatch! One step further to the top!!<br/>
 **12th July**, Achieved Rank 25 on LiveCoinWatch! We are unstoppable! <br/>
-**12th July**, XET will be listed on SistemKoin Exchange!! <br/>
 **18th July**, Update of 2018, Q3 & Q4 XEC roadmap. <br/>
 **19th July**, Listed on Ranking Site:<br/>
 Crypto Compare: https://www.cryptocompare.com/coins/xet/overview/BTC]<br/>
-**23rd July**, XET is officially listed and tradable on SistemKoin Exchange!<br/>
 **13th Aug**, Listed on Ranking Sites:<br/> 
 Coin Market Cap https://coinmarketcap.com/currencies/external-token/][<br/>
 **17th Aug**, Listed on Ranking Sites: <br/>
