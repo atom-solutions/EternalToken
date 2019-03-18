@@ -5,7 +5,7 @@ XET refers to a token that can be bi-directionally exchanged with Eternal Coin (
 Eternal Coin (XEC) can be traded and acquired via authorized exchanges ONLY which leads to the disadvantage that XEC can’t be acquired via ANY unauthorized exchanges throughout the world.
 Therefore, Eternal Token (XET) is developed to be listed and tradable with various currencies on global exchanges.
 
-The issuance between two compatible virtual currencies is a new form of virtual currency to solve the disadvantage of XEC and other currencies with similar situation.
+The issuance between two compatible virtual currencies is a new form of cryptocurrency to solve the disadvantage of XEC and other currencies with similar situation.
 
 XEC is a centralize coin unlike other coins in the market. Our core idea is to provide an "Equivalent Value Overseas Remittance" through our Eternal Wallet System. We can do any transactions like remittances, payment without any other coins involving hence having a very low transfer or processing fees. The XEC system also preventing hackers and fraudulent activities including tracing back the data, etc..
 
