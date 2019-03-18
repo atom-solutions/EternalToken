@@ -59,18 +59,18 @@ Coinranking https://coinranking.com/coin/eternaltoken-xet]<br/>
 Coinlib https://coinlib.io/coin/XET/Eternal+Token]<br/>
 **3rd Sept**, Listed on Ranking Sites: <br/>
 Coinmarketdaddy https://coinmarketdaddy.com/currencies/token/eternal-token/xet/]<br/>
-**25th Sept**, Business Tie-up with Eternal Wallet PH [url=https://www.youtube.com/watch?v=_tX1X2vqt4k&feature=youtu.be]<br/>
+**25th Sept**, Business Tie-up with Eternal Wallet PH https://www.youtube.com/watch?v=_tX1X2vqt4k&feature=youtu.be]<br/>
 **3rd Oct**, Attended Blockchain & Cryptocurrencies Summit in Malta!!<br/>
-**11th Dec**, XET is now LIVE on BitUniverse: [url=https://twitter.com/bituniverse_org]<br/>
-**19th Dec**, “Virtual Currency Exchange Transaction Fee Distribution Patent", Approved Successfully!: [url=https://www.atom-solutions.jp/en/news/news_1219.php]<br/>
-**26th Dec**, Started listing application to Binance: [url=https://www.atom-solutions.jp/en/news/news_1226.php]<br/>
-**26th Dec**, Launched newly developed EVOR System: [url=https://www.atom-solutions.jp/en/news/news_1226_2.php]<br/>
-**27th Dec**, "Virtual Currency Value Division Patent", Approved Successfully! [url=https://www.atom-solutions.jp/en/news/news_1227.php]<br/>
-**27th Dec**, Achieved Rank 40 on CoinMarketCap!! Congratulations! [url=https://coinmarketcap.com/currencies/eternal-token/]<br/>
+**11th Dec**, XET is now LIVE on BitUniverse: https://twitter.com/bituniverse_org]<br/>
+**19th Dec**, “Virtual Currency Exchange Transaction Fee Distribution Patent", Approved Successfully!: https://www.atom-solutions.jp/en/news/news_1219.php]<br/>
+**26th Dec**, Started listing application to Binance: https://www.atom-solutions.jp/en/news/news_1226.php]<br/>
+**26th Dec**, Launched newly developed EVOR System: https://www.atom-solutions.jp/en/news/news_1226_2.php]<br/>
+**27th Dec**, "Virtual Currency Value Division Patent", Approved Successfully! https://www.atom-solutions.jp/en/news/news_1227.php]<br/>
+**27th Dec**, Achieved Rank 40 on CoinMarketCap!! Congratulations! https://coinmarketcap.com/currencies/eternal-token/]<br/>
 
 **Year 2019**<br/>
 
-**23rd Jan**, XET is listed on Instant Bitex! Congratulations! [url=https://www.atom-solutions.jp/en/news/news_190123.php]<br/>
-**08th Feb**, Atom Solutions has formed a business partnership with CIS Bayad Center in the Philippines! [url=https://www.atom-solutions.jp/en/news/news_190208.php]<br/>
-**13th Feb**, XET is listed on OEX and XET/BTC & XET/ETH are now online![url=https://https://www.oex.com/]<br/>
-**27th Feb**, "One-Touch Transfer" Patent, Approved Successfully! [url=https://www.atom-solutions.jp/en/news/news_190227.php]<br/>
+**23rd Jan**, XET is listed on Instant Bitex! Congratulations! https://www.atom-solutions.jp/en/news/news_190123.php]<br/>
+**08th Feb**, Atom Solutions has formed a business partnership with CIS Bayad Center in the Philippines! https://www.atom-solutions.jp/en/news/news_190208.php]<br/>
+**13th Feb**, XET is listed on OEX and XET/BTC & XET/ETH are now online! https://https://www.oex.com/]<br/>
+**27th Feb**, "One-Touch Transfer" Patent, Approved Successfully! https://www.atom-solutions.jp/en/news/news_190227.php]<br/>
