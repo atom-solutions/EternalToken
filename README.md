@@ -42,7 +42,7 @@ Documentation available at [WIKI pages](https://github.com/atom-solutions/Eterna
 |**08th Feb**| Atom Solutions has formed a business partnership with CIS Bayad Center in the Philippines! [Read more](https://www.atom-solutions.jp/en/news/news_190208.php)|  
 |**23rd Jan**|XET is listed on Instant Bitex! Congratulations! [Read more](https://www.atom-solutions.jp/en/news/news_190123.php)|  
 
-**YEAR 2018**  
+**Year 2018**  
 
 |Day|Description|
 |:---|:---|
