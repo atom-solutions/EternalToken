@@ -22,6 +22,8 @@ For more details, please view to our official homepage: https://www.atom-solutio
 - [XET Whitepaper](https://www.atom-solutions.jp/whitepaper/XET_whitepaperver.2.0en.pdf)  
 - [XEC Whitepaper](https://www.atom-solutions.jp/whitepaper/XEC_whitepaperver.2.0en.pdf)  
 - [Synergy Effects of XEC & XET](https://www.atom-solutions.jp/pdf/synergy_en.pdf)  
+- [XET Rating Report (TokenInsight)](https://tokeninsight.com/api/upload/levelPdf/e350a3637ec7a980ddcf740c39e465be.pdf) 
+- [XET Smart Contract Audit (Beosin)](https://www.atom-solutions.jp/pdf/Smart_contract_security_audit_report-XET.pdf) 
 - [XET Twitter](https://twitter.com/AdminXET)
 - [XET Bitcointalk and Roadmap](https://bitcointalk.org/index.php?topic=4458425.0)
 - [Atom Solutions News](https://www.atom-solutions.jp/en/news/newslist.php)  
