@@ -37,11 +37,14 @@ Documentation available at [WIKI pages](https://github.com/atom-solutions/Eterna
 
 |Day|Description|
 |:---|:---|
-|**26th Mar**| Project XET has acquired " B " from TokenInsight assessment. [Read more](https://tokeninsight.com/tokenDetail?cid=20701)|  
+|**24th Apr**|XET is now on Blockspot.io! [Read more](https://blockspot.io/coin/eternal-token/)|  
+|**15th Apr**|Introducing the world's cheapest overseas remittance service, "EVOR"! [Read more](https://www.atom-solutions.jp/en/news/news_190415.php)|  
+|**03rd Apr**|Project XET has passed all the requirements of Smart Contract Audit by Beosin. [Read more](https://www.atom-solutions.jp/en/news/news_190403.php)|  
+|**26th Mar**|Project XET has acquired " B " from TokenInsight assessment. [Read more](https://tokeninsight.com/tokenDetail?cid=20701)|  
 |**22nd Mar**|Officially released of XEC/XET Whitepaper in Chinese Version! [Read more](https://www.atom-solutions.jp/en/news/news_190320_2.php)|  
 |**27th Feb**|"One-Touch Transfer" Patent, Approved Successfully! [Read more](https://www.atom-solutions.jp/en/news/news_190227.php)|  
 |**13th Feb**|XET is listed on [OEX](https://https://www.oex.com/) and XET/BTC & XET/ETH are now online!|   
-|**08th Feb**| Atom Solutions has formed a business partnership with CIS Bayad Center in the Philippines! [Read more](https://www.atom-solutions.jp/en/news/news_190208.php)|  
+|**08th Feb**|Atom Solutions has formed a business partnership with CIS Bayad Center in the Philippines! [Read more](https://www.atom-solutions.jp/en/news/news_190208.php)|  
 |**23rd Jan**|XET is listed on Instant Bitex! Congratulations! [Read more](https://www.atom-solutions.jp/en/news/news_190123.php)|  
 
 **Year 2018**  
@@ -54,24 +57,24 @@ Documentation available at [WIKI pages](https://github.com/atom-solutions/Eterna
 |**26th Dec**|Started listing application to Binance. [Read more](https://www.atom-solutions.jp/en/news/news_1226.php)|  
 |**26th Dec**|Launched newly developed EVOR System! [Read more](https://www.atom-solutions.jp/en/news/news_1226_2.php)|  
 |**11th Dec**|XET is now LIVE on [BitUniverse](https://twitter.com/bituniverse_org)|  
-|**3rd Oct**| Attended Blockchain & Cryptocurrencies Summit in Malta!!|  
+|**03rd Oct**|Attended Blockchain & Cryptocurrencies Summit in Malta!!|  
 |**25th Sept**|Business Tie-up with Eternal Wallet PH [Click here to watch the video!](https://www.youtube.com/watch?v=_tX1X2vqt4k&feature=youtu.be)|  
 |**3rd Sept**|Listed on Ranking Sites:<br>[Coinmarketdaddy](https://coinmarketdaddy.com/currencies/token/eternal-token/xet/)|  
 |**29th Aug**|Listed on Ranking Sites:<br>[Coinlib](https://coinlib.io/coin/XET/Eternal+Token)|  
 |**24th Aug**|Listed on Ranking Sites:<br>[Coinranking](https://coinranking.com/coin/eternaltoken-xet)|  
 |**17th Aug**|Listed on Ranking Sites:<br>[Coingecko](https://www.coingecko.com/en/coins/eternal-token)|  
 |**13th Aug**|Listed on Ranking Sites:<br>[Coin Market Cap](https://coinmarketcap.com/currencies/external-token/)|  
-|**19th July**|Listed on Ranking Site:<br>[Crypto Compare](https://www.cryptocompare.com/coins/xet/overview/BTC)|  
-|**18th July**|Update of 2018, Q3 & Q4 XEC roadmap.|  
-|**12th July**|Achieved Rank 25 on LiveCoinWatch! We are unstoppable!|  
-|**10th July**|Achieved Rank 30 on LiveCoinWatch! One step further to the top!!|  
-|**6th July**|Achieved Rank 40 on LiveCoinWatch! XET is unstoppable!|  
-|**5th July**|Achieved Rank 48 on CoinCodex|  
-|**4th July**|Listed on Ranking Sites:<br>[Coinranker](https://www.coinranker.net/cryptocurrency/Eternaltoken/)|  
-|**4th July**|Achieved Rank 50 on LiveCoinWatch|    
-|**3rd July**|Listed on Ranking Sites|[Fei Xiao Hao](https://www.feixiaohao.com/currencies/eternal/)|  
-|**2nd July**|XEC→XET Swapping Started on [Token Hub Exchange](https://tokenhub.asia/)|  
-|**22th June**|Listed on Ranking Sites:<br>[World Coin Index](https://www.worldcoinindex.com/coin/eternaltoken)|<br>[Live Coin watch](https://www.livecoinwatch.com/price/EternalToken-XET)  
+|**19th Jul**|Listed on Ranking Site:<br>[Crypto Compare](https://www.cryptocompare.com/coins/xet/overview/BTC)|  
+|**18th Jul**|Update of 2018, Q3 & Q4 XEC roadmap.|  
+|**12th Jul**|Achieved Rank 25 on LiveCoinWatch! We are unstoppable!|  
+|**10th Jul**|Achieved Rank 30 on LiveCoinWatch! One step further to the top!!|  
+|**06th Jul**|Achieved Rank 40 on LiveCoinWatch! XET is unstoppable!|  
+|**05th Jul**|Achieved Rank 48 on CoinCodex|  
+|**04th Jul**|Listed on Ranking Sites:<br>[Coinranker](https://www.coinranker.net/cryptocurrency/Eternaltoken/)|  
+|**04th Jul**|Achieved Rank 50 on LiveCoinWatch|    
+|**03rd Jul**|Listed on Ranking Sites|[Fei Xiao Hao](https://www.feixiaohao.com/currencies/eternal/)|  
+|**02nd Jul**|XEC→XET Swapping Started on [Token Hub Exchange](https://tokenhub.asia/)|  
+|**22th Jun**|Listed on Ranking Sites:<br>[World Coin Index](https://www.worldcoinindex.com/coin/eternaltoken)|<br>[Live Coin watch](https://www.livecoinwatch.com/price/EternalToken-XET)  
 |**15th June**|Listed on IDAX Exchange, Ranking Sites:<br>[MyToken](https://mytoken.io/currency/821695686)<br>[Coincodex](https://coincodex.com/crypto/eternal-token/)|  
   
 ---
