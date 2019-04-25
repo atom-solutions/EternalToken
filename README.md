@@ -37,6 +37,8 @@ Documentation available at [WIKI pages](https://github.com/atom-solutions/Eterna
 
 |Day|Description|
 |:---|:---|
+|**26th Mar**| Project XET has acquired " B " from TokenInsight assessment. [Read more](https://tokeninsight.com/tokenDetail?cid=20701)|  
+|**22nd Mar**|Officially released of XEC/XET Whitepaper in Chinese Version! [Read more](https://www.atom-solutions.jp/en/news/news_190320_2.php)|  
 |**27th Feb**|"One-Touch Transfer" Patent, Approved Successfully! [Read more](https://www.atom-solutions.jp/en/news/news_190227.php)|  
 |**13th Feb**|XET is listed on [OEX](https://https://www.oex.com/) and XET/BTC & XET/ETH are now online!|   
 |**08th Feb**| Atom Solutions has formed a business partnership with CIS Bayad Center in the Philippines! [Read more](https://www.atom-solutions.jp/en/news/news_190208.php)|  
