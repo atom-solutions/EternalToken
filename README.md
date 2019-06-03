@@ -39,6 +39,7 @@ Documentation available at [WIKI pages](https://github.com/atom-solutions/Eterna
 
 |Day|Description|
 |:---|:---|
+|**03rd Jun**|XET is now available Lumi Wallet! [Read more](https://lumiwallet.com/)| 
 |**24th Apr**|XET is now on Blockspot.io! [Read more](https://blockspot.io/coin/eternal-token/)|  
 |**15th Apr**|Introducing the world's cheapest overseas remittance service, "EVOR"! [Read more](https://www.atom-solutions.jp/en/news/news_190415.php)|  
 |**03rd Apr**|Project XET has passed all the requirements of Smart Contract Audit by Beosin. [Read more](https://www.atom-solutions.jp/en/news/news_190403.php)|  
