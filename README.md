@@ -39,6 +39,8 @@ Documentation available at [WIKI pages](https://github.com/atom-solutions/Eterna
 
 |Day|Description|
 |:---|:---|
+|**13th Aug**|Business Partnership Formed with NganLuong [Read more](https://www.atom-solutions.jp/en/news/news_190813.php)| 
+|**12th Aug**|Business Partnership Formed with Bitronics [Read more](https://www.atom-solutions.jp/en/news/news_190812.php)| 
 |**17th Jul**|Listed and Started trading of XET on Digifinex [Read more](https://www.atom-solutions.jp/en/news/news_190719.php)| 
 |**03rd Jun**|XET is now available Lumi Wallet! [Read more](https://lumiwallet.com/)| 
 |**24th Apr**|XET is now on Blockspot.io! [Read more](https://blockspot.io/coin/eternal-token/)|  
